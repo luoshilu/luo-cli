@@ -1,0 +1,7 @@
+{
+  "extends": "luo",
+  "rules": {
+    "no-console": "off",
+    "requireForBlockBody": true
+  }
+}
