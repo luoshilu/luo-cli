@@ -2,7 +2,7 @@
 
 ## 创建
 
-> npm install
+> npm install // or yarn
 > npm link
 
 ## 使用
